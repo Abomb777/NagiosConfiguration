@@ -1,0 +1,2 @@
+# NagiosConfiguration
+Nagios Configuration
